@@ -1,0 +1,6 @@
+{
+  "name": "Dolce Vita Wedding Invitation — Alexa & Richard",
+  "description": "Interactive animated digital wedding invitation card featuring scratch-to-reveal date, opening envelope, event timeline, Google Maps venue, dress code, and RSVP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
